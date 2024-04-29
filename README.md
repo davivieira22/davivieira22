@@ -7,12 +7,10 @@
 <br>
 .<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt=logo-css>
 <br>
-e atualmente estou aprendendo 
 <br>
 .<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=logo-javascript>
 <br>
-.<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt=logo-python>
-<br>
+
 :sunglasses: para me tornar um programador :heart_eyes: Back-End 
 estou sempre com a mente aberta para aprender cada dia mais e ser um 
 programador cada dia melhor e tanbem uma pessoa melhor e poder alcança meus objetivos 
