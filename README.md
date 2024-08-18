@@ -11,7 +11,7 @@
 .<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=logo-javascript>
 <br>
 
-:sunglasses: ola sou um programador fill-stack :heart_eyes:trabalho atualmente como freelancer criando projetos e paginas
+:sunglasses: ola sou um programador full-stack :heart_eyes:trabalho atualmente como freelancer criando projetos e paginas
 para qualquer pessoas ou empresa atualmente estou aperfeiçoando  minhas tecnicas no back end como banco de dados e SQL e MONGO-DB e outros 
 estou sempre me atualizando com as novas tecnologias do mercado como  as IAs  e outras feramentas tanbem como REACT tanbem uso o AXIOS para consumir 
 APIs e outras se quiser saber mais so entra em contato ficarei feliz em conversar ou ate mesmo prestar algum servico obrigado e fiquem com DEUS
